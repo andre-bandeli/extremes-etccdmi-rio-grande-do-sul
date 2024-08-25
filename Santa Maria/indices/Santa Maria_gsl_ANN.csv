@@ -1,0 +1,24 @@
+"Description: ","Annual number of days between the first occurrence of 6 consecutive days with TM > 5 degrees_C and the first occurrence of 6 consecutive days with TM < 5 degrees_C"
+"Station: ","Santa Maria"
+"Latitude: ","-29.72499999"
+"Longitude: ","-53.72055554"
+"Climpact_version: ","3.2.0"
+"Date_of_calculation: ","2024-08-16"
+time, gsl, normalised (all years)
+2008, 361, -0.403373285313495
+2009, 365, 0.313734777466051
+2010, 365, 0.313734777466051
+2011, -99.9, -99.9
+2012, 346, -3.09252852073679
+2013, 365, 0.313734777466051
+2014, -99.9, -99.9
+2015, 366, 0.493011793160938
+2016, 365, 0.313734777466051
+2017, 365, 0.313734777466051
+2018, 365, 0.313734777466051
+2019, 366, 0.493011793160938
+2020, -99.9, -99.9
+2021, 365, 0.313734777466051
+2022, 365, 0.313734777466051
+2023, -99.9, -99.9
+2024, -99.9, -99.9

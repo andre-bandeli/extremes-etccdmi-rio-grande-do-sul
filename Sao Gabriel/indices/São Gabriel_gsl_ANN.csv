@@ -1,0 +1,24 @@
+"Description: ","Annual number of days between the first occurrence of 6 consecutive days with TM > 5 degrees_C and the first occurrence of 6 consecutive days with TM < 5 degrees_C"
+"Station: ","São Gabriel"
+"Latitude: ","-30.34138888"
+"Longitude: ","-54.31083333"
+"Climpact_version: ","3.2.0"
+"Date_of_calculation: ","2024-08-16"
+time, gsl, normalised (all years)
+2008, 365, 0.372744838326767
+2009, 365, 0.372744838326767
+2010, 365, 0.372744838326767
+2011, -99.9, -99.9
+2012, 365, 0.372744838326767
+2013, 365, 0.372744838326767
+2014, 356, -2.72390458777258
+2015, 366, 0.71681699678225
+2016, -99.9, -99.9
+2017, 365, 0.372744838326767
+2018, 365, 0.372744838326767
+2019, 360, -1.34761595395065
+2020, 365, 0.372744838326767
+2021, 365, 0.372744838326767
+2022, -99.9, -99.9
+2023, -99.9, -99.9
+2024, -99.9, -99.9

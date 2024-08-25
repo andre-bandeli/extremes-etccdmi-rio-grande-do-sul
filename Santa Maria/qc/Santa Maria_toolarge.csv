@@ -1,0 +1,8 @@
+"Description: ","Dates where precipitation > 200 mm or abs(temperature) > 50 degrees."
+"Station: ","Santa Maria"
+"Latitude: ","-29.72499999"
+"Longitude: ","-53.72055554"
+"Climpact_version: ","3.2.0"
+"Date_of_calculation: ","2024-08-16"
+Date,Prec,TX,TN
+2024-5-1,204.4,21.4,19

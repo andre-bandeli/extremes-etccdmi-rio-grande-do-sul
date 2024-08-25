@@ -1,0 +1,7 @@
+"Description: ","Dates where precipitation > 200 mm or abs(temperature) > 50 degrees."
+"Station: ","Uruguaiana"
+"Latitude: ","-29.83999999"
+"Longitude: ","-57.08194443"
+"Climpact_version: ","3.2.0"
+"Date_of_calculation: ","2024-08-16"
+Date,Prec,TX,TN

@@ -1,0 +1,24 @@
+"Description: ","Annual number of days between the first occurrence of 6 consecutive days with TM > 5 degrees_C and the first occurrence of 6 consecutive days with TM < 5 degrees_C"
+"Station: ","Uruguaiana"
+"Latitude: ","-29.83999999"
+"Longitude: ","-57.08194443"
+"Climpact_version: ","3.2.0"
+"Date_of_calculation: ","2024-08-16"
+time, gsl, normalised (all years)
+2008, 365, 0.185216946644164
+2009, 365, 0.185216946644164
+2010, 365, 0.185216946644164
+2011, 362, -2.87086267298446
+2012, -99.9, -99.9
+2013, 365, 0.185216946644164
+2014, 365, 0.185216946644164
+2015, -99.9, -99.9
+2016, -99.9, -99.9
+2017, 365, 0.185216946644164
+2018, 365, 0.185216946644164
+2019, 366, 1.20391015318704
+2020, -99.9, -99.9
+2021, 365, 0.185216946644164
+2022, 365, 0.185216946644164
+2023, -99.9, -99.9
+2024, -99.9, -99.9
